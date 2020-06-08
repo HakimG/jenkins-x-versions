@@ -1,7 +1,7 @@
 repositories:
-  - prefix: hakimrepo
+  - prefix: swapcard
     urls:
-      - https://hakimg.github.io/helm-chart-repo/
+      - https://swapcard-corporation.github.io/helm-repo/
   - prefix: bitnami
     urls:
       - https://charts.bitnami.com/bitnami
